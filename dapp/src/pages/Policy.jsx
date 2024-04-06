@@ -23,19 +23,14 @@ function Policy() {
                               <h4 className='w-1/2 font-bold'>Coverage amont</h4> : <h4 className='ml-10 w-1/2'>500000</h4>
                               </div>
                                <div className='flex'>
-                               <h4 className='w-1/2 font-bold '>Premium</h4> : <h4 className='ml-10 w-1/2'>50 / month</h4>
+                               <h4 className='w-1/2 font-bold '>Premium</h4> : <h4 className='ml-10 w-1/2'>12 / month</h4>
                                </div>
                                <div className='flex'>
                                <h4 className='w-1/2 font-bold'>Duration years</h4> : <h4 className='ml-10 w-1/2'>500000</h4>
                                </div>
                                <div className="py-10 px-20">
-                                        <button className='border-2 border-gray-600 rounded-md hover:bg-blue-600  px-9'>Buy Policy</button>
-                               </div>
-                              
-                              
-                              
-                              
-                              
+                                        <button className='border-2 border-gray-600 rounded-md hover:bg-blue-700 hover:text-white  px-9'>Buy Policy</button>
+                               </div>     
                     </div>
           </div>
           </div>
